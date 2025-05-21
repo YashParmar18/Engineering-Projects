@@ -1,7 +1,6 @@
 # Engineering-Projects
 
-#Electrical_Equipment_Health_Audit_Report: 
-
+Electrical_Equipment_Health_Audit_Report: 
 The Electrical Equipment Health Audit was conducted at YERA Glasses to comprehensively evaluate the condition,
 performance, and remaining service life of key electrical assets across the facility. This initiative focused
 on enhancing system reliability, safety, and efficiency through early detection of potential failure points
