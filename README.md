@@ -8,3 +8,6 @@ Energy_Efficiency_Project_Report
 
 This project focused on enhancing energy efficiency within a manufacturing facility by modernizing its motor systems and integrating Variable Frequency Drives (VFDs). Led by the Maintenance Electrical Engineerin team, the initiative was a strategic response to high electricity costs and inefficient legacy equipment identified during an internal energy audit.Beyond cost reduction, the project contributed to improved process control, equipment longevity, and a lower carbon footprint. It also established a framework for ongoing energy optimization and digital monitoring.[Learn more](Energy_Efficiency_Project_Report.pdf)
 
+PLC_Automation_Project_Report
+
+This report presents a comprehensive overview of the PLC-based automation system developed for a glass product manufacturing line. The primary objective of this system is to ensure efficient, safe, and reliable operation of the production machine table used for handling hot raw glass. The system has been designed using programmable logic controllers (PLCs), integrating sensors, timers, motors, alarms, and actuators to automate the key phases of the production process.[Learn more]()
