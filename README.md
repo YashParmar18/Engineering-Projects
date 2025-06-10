@@ -10,5 +10,4 @@ This project focused on enhancing energy efficiency within a manufacturing facil
 
 PLC_Automation_Project_Report
 
-This report presents a comprehensive overview of the PLC-based automation system developed for a glass product manufacturing line. The primary objective of this system is to ensure efficient, safe, and reliable operation of the production machine table used for handling hot raw glass. The system has been designed using programmable logic controllers (PLCs), integrating sensors, timers, motors, alarms, and actuators to automate the key phases of the production process.
-[Learn more](PLC_Automation_Project_Report.pdf)
+This report presents a comprehensive overview of the PLC-based automation system developed for a glass product manufacturing line. The primary objective of this system is to ensure efficient, safe, and reliable operation of the production machine table used for handling hot raw glass. The system has been designed using programmable logic controllers (PLCs), integrating sensors, timers, motors, alarms, and actuators to automate the key phases of the production process.[Learn more](PLC_Automation_Project_Report.pdf)
